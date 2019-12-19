@@ -1,5 +1,9 @@
 # I've joined the #100DaysOfCode Challenge
 
+#  Hello All!
+
+# I'm about to do this! Wish me luck!
+
 ## Contents
 
 * [Rules](rules.md)
